@@ -4,6 +4,8 @@
 
 > {{ .EmitSynopsis }}
 
+**Note:** GoDoc online documentation available here: https://godoc.org/github.com/gomjw/{{ .Name }}!
+
 ## Install
 
 ```console
