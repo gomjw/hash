@@ -1,4 +1,4 @@
-// Hash strings or files
+// Package hash returns the hash strings for strings and files
 package hash
 
 import (
