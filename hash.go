@@ -1,3 +1,4 @@
+// Hash strings or files
 package hash
 
 import (
