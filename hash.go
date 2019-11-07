@@ -95,5 +95,3 @@ func GetSHA512(text string) string {
 	b := sha512.Sum512(data)
 	return hex.EncodeToString(b[:])
 }
-
-crypto.
