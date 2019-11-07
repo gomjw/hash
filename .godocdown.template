@@ -1,0 +1,25 @@
+{{ if not .IsCommand  }} 
+
+# {{ .Name }}
+
+> {{ .EmitSynopsis }}
+
+## Install
+
+```console
+go get -u github.com/gomjw/{{ .Name }}
+```
+
+## Import
+
+```go
+import "github.com/gomjw/{{ .Name }}"
+```
+
+{{ .EmitUsage }}
+
+{{ else }}
+
+
+
+{{ end }}
