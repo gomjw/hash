@@ -1,4 +1,5 @@
 # hash
+ 
 
 [![GoDoc](https://godoc.org/github.com/gomjw/checkproxy?status.svg)](https://godoc.org/github.com/gomjw/hash)
 
@@ -80,4 +81,4 @@ GetSHA512FromFile returns the SHA512 hash of a file.
 
 > Made by the awesome contributors of [@gomjw](https://github.com/gomjw) &nbsp;&middot;&nbsp;
 > Maintainer [@MarvinJWendt](https://github.com/MarvinJWendt) &nbsp;&middot;&nbsp;
-> Readme template version: 1.0.0
+> Readme template version: 1.1.0
