@@ -8,7 +8,7 @@
 ## Install
 
 ```console
-go get -u github.com/gomjw/hash
+go get -u github.com/gomjw/hash/...
 ```
 
 ## Import
